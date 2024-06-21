@@ -1,0 +1,3 @@
+/home/aditya/Desktop/C++game/build/CMakeFiles/C++game.dir
+/home/aditya/Desktop/C++game/build/CMakeFiles/edit_cache.dir
+/home/aditya/Desktop/C++game/build/CMakeFiles/rebuild_cache.dir
